@@ -23,8 +23,8 @@ main:
     url: /livelihood/
   - title: Industries
     url: /industries/
-  - title: Education
-    url: /education/
+  - title: Example1
+    url: /example1/
 
   - title: Healthcare & Biosciences
     url: /health/
