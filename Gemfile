@@ -13,26 +13,10 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Project VIKRAM
+title: Demo Website
 email:
 description: >- # this means to ignore newlines until "baseurl:"
-  An inclusive rural digitalization platform inspired by the principles of GramSheel
-    Virtualized
-    Infrastructure
-    for
-    Knowledge-driven
-    Rural
-    Ascension
-    Management
-  गाँव बढ़ेंगे तो सब बढ़ेंगे
-  Project Vikram is a project to make rural digitalization accessible, inclusive and democratized (as in equal opportunity not political). The project works on the digitalization of at least the following areas.
-    1. Education
-    2. Healthcare
-    3. Livelihood (ISIC domains of economic activities)
-    4. Social Justice
-    5. Habitat and Environment
-    6. Agriculture and Food
-    7. Peace and harmony through social dialog 
+  This is  a Demo website meant for academic purposes
 twitter_username: username
 github_username: username
 minimal_mistakes_skin: dirt
@@ -73,7 +57,7 @@ plugins:
 
 author:
   name   : "First Lastname"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/assets/images/ayetutor.png"
   bio    : "My awesome biography constrained to a sentence or two goes here."
   links:
     - label: "Twitter"
@@ -81,16 +65,16 @@ author:
       url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/projectvikram/"
+      url: "https://github.com/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook"
-      url: "https://www.facebook.com/ProjectVIKRAM"
+      url: "https://www.facebook.com/"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/company/project-vikram"
+      url: "https://www.linkedin.com/"
 
 footer:
   links:
