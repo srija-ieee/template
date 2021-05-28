@@ -13,10 +13,10 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Demo Website
+title: AyePages™ Template
 email:
 description: >- # this means to ignore newlines until "baseurl:"
-  This is  a Demo website meant for academic purposes
+  This is  an AyePages™ template meant for academic purposes
 twitter_username: username
 github_username: username
 minimal_mistakes_skin: dirt

@@ -2,7 +2,7 @@
 layout: single
 permalink: /
 hidden: true
-title: Demo Webiste
+title: AyePages™ Template
 header:
   overlay_color: "#4d2e00"
   overlay_image: https://upload.wikimedia.org/wikipedia/commons/2/23/Forest_%28119%29.jpg
@@ -10,10 +10,10 @@ header:
     - label: "<i class='fas fa-fw fa-handshake'></i> Join us"
       url: "/join-us/"
 excerpt:
-  <b>This is a Demo website<br>
+  <b>This is an AyePages™ template<br>
   meant for academic purposes</b><br>
   <small>
-  <a href="about/">More about Demo Website </a>
+  <a href="about/">More about AyePages™ Template </a>
   </small>
 feature_row:
   - image_path: /assets/images/image1.jpg
