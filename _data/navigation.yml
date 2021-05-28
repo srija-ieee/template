@@ -1,13 +1,17 @@
 main:
   - title: Home
     url: /
-  - title: Example2
-    url: /example2/
-
-
   - title: Example1
     url: /example1/
-   
+    
+  - title: Example2
+    url: /example2 
+  - title: Example3
+    url: /example3/
+  - title: Example4
+    url: /example4/
+
+      
   - title: "Categories"
     url: /categories/
   - title: "Tags"
