@@ -1,8 +1,8 @@
 main:
   - title: Home
     url: /
-  - title: Resources
-    url: /resources/
+  - title: Example2
+    url: /example2/
 
 
   - title: Example1
