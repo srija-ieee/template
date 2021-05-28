@@ -1,4 +1,4 @@
- ---
+---
 permalink: / highlight2/
 title: Highlight2
 ---
