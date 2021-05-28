@@ -10,33 +10,33 @@ header:
     - label: "<i class='fas fa-fw fa-handshake'></i> Join us"
       url: "/join-us/"
 excerpt:
-  <b>An inclusive rural digitalization platform<br>
-  inspired by the principles of GramSheel</b><br>
+  <b>This is a Demo website<br>
+  meant for academic purposes</b><br>
   <small>
-  <a href="about/">More about Project Vikram </a>
+  <a href="about/">More about Demo Website </a>
   </small>
 feature_row:
   - image_path: /assets/images/vikram-h4all.jpg
     alt: "health4all"
-    title: "Healthcare for All"
-    excerpt: "Healthcare is basic dignity of human life in modern civilization. Project Vikram  is setting up the tools for an accessible virtual hospital. These include EMR, HMS, PACS among other tools along with AI enablement<br><br><br>"
+    title: "Highlight1"
+    excerpt: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur<br><br><br>"
     url: "/virtual-hospital/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
   - image_path: /assets/images/sing-tech.jpg
     alt: "democratised singularity"
-    title: "Singularity Tech for All"
-    excerpt: "Science and technology have ushered in a new era for our species, but the advances have also ridged new divides. Project Vikram  is developing technologies to bridge the current digital divide and the impending cognitive divide<br><br><br>"
+    title: "Highlight2"
+    excerpt: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua  Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur<br><br><br>"
     url: "/tech4all/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
   - image_path: /assets/images/hindawi-progg-sys.jpg
     alt: "language neutrality"
     title: "Linguistic Inclusivity"
-    excerpt: "Free as in freedom! True freedom can only be achieved in the most creative states of mind. The mind is most creative when free to work with the mother tongue. Project Vikram  together with Project Hindawi is ushering in lanaguage neutrality across technical domains."
+    excerpt: " Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
     url: "https://hindawiai.github.io/"
     btn_class: "btn--primary"
-    btn_label: "Learn more"       
+    btn_label: "Learn more"      
 ---
 <iframe allowfullscreen="false" frameborder="0" mozallowfullscreen="false" src="https://docs.google.com/presentation/d/e/2PACX-1vT5K9ijpA0fuuS4OJTQMwoMaQrZm5dMCXisLRBgVzxQ7I5312_uHAqZvvJIA_5KRrG02t45MotrTj_a/embed?start=true&loop=true&delayms=300&rm=minimal" webkitallowfullscreen="false" width="100%" height="77"></iframe>
 
