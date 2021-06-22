@@ -13,7 +13,7 @@ excerpt:
   <b>This is an AyePages™ template<br>
   meant for academic purposes</b><br>
   <small>
-  <a href="about/">More about AyePages™ Template </a>
+    <a href="https://colab.research.google.com/github/ayepages/template/blob/master/_tools/AyeBlog_Tools_by_AyeAI.ipynb">Create or Update Blog Posts</a>
   </small>
 feature_row:
   - image_path: /assets/images/image1.jpg
